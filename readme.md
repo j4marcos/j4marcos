@@ -7,7 +7,7 @@
 <p>
 
 Estudante de **Ciência da Computação** na UFPB.
-Eu sou estudante de desenvolvolvimento **Web Front-end**.
+estudando desenvolvolvimento **Web Front-end**.
 
 
 </p>
