@@ -6,12 +6,12 @@
 
 <p>
 
-Estudante de **Ciência da Computação** na UFPB.
-  
+Estudante de **Ciência da Computação** na UFPB. <br>
+   estudando desenvolvolvimento **Web Front-end**.
+</p>
 </p>
 <p>
-  estudando desenvolvolvimento **Web Front-end** .
-</p>
+ 
 
 <hr>
 <img width="100%" align='right' src="https://github-readme-stats.vercel.app/api?username=j4marcos&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
