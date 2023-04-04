@@ -10,7 +10,7 @@ Estudante de **Ciência da Computação** na UFPB.
   
 </p>
 <p>
-  estudando desenvolvolvimento **Web Front-end**.
+  estudando desenvolvolvimento **Web Front-end** .
 </p>
 
 <hr>
