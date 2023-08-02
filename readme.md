@@ -5,7 +5,7 @@
 <p>
 
 **Ciência da Computação** - UFPB. <br>
-Desenvolvimento **Web Front-end**. / **games**
+Desenvolvimento **Web Front-end** / **games**
 </p>
 </p>
 <p>
