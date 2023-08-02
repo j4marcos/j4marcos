@@ -4,8 +4,8 @@
 
 <p>
 
-Estudante de **Ciência da Computação** na UFPB. <br>
-Estudando desenvolvolvimento **Web Front-end**.
+**Ciência da Computação** - UFPB. <br>
+desenvolvolvimento **Web Front-end**. / **games**
 </p>
 </p>
 <p>
