@@ -20,6 +20,11 @@ Web and games developer
 
 <hr>
 
+## Games
+<div><a href="https://romulohenri.itch.io/cordeladventures"><img width="100%" height="100%" src="imglink" alt="Cordel Adventures by Rômulo Henri, J4marcos"></a></div>
+
+<hr>
+
 ## Skills
 
 > Main languages, frameworks and technologies that i use in projects.
@@ -34,8 +39,6 @@ Web and games developer
 <img align="center" alt="C" height="54" width="72"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
 
 </div>
-
-<div><a href="https://romulohenri.itch.io/cordeladventures"><img width="100%" height="100%" src="imglink" alt="Cordel Adventures by Rômulo Henri, J4marcos"></a></div>
 
 ## Contact
 
