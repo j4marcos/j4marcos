@@ -21,7 +21,7 @@ Web and games developer
 <hr>
 
 ## Games
-<div><a href="https://romulohenri.itch.io/cordeladventures"><img width="100%" height="100%" src="[imglink](https://github.com/j4marcos/j4marcos/blob/main/Projeto%20(20231130044706).png)" alt="Cordel Adventures by Rômulo Henri, J4marcos"></a></div>
+<div><a href="https://romulohenri.itch.io/cordeladventures"><img width="100%" height="100%" src="https://github.com/j4marcos/j4marcos/blob/main/Projeto%20(20231130044706).png" alt="Cordel Adventures by Rômulo Henri, J4marcos"></a></div>
 
 <hr>
 
