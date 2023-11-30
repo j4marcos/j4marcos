@@ -4,7 +4,7 @@
 
 <p>
 
-**COMPUTER CIENCE** - UFPB. <br>
+**computer cience** - UFPB. <br>
 Web and games developer
 </p>
 </p>
