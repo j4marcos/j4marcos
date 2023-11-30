@@ -4,8 +4,8 @@
 
 <p>
 
-**Ciência da Computação** - UFPB. <br>
-Desenvolvimento **Web & mobile**
+**COMPUTER CIENCE** - UFPB. <br>
+Web and games developer
 </p>
 </p>
 <p>
