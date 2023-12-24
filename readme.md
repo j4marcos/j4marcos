@@ -22,8 +22,6 @@ Web and games developer
 
 ## Skills
 
-> Main languages, frameworks and technologies that i use in projects.
-
 ### Languages:
 
 <div display="inline_block" >
@@ -40,6 +38,7 @@ Web and games developer
 <div><a href="https://romulohenri.itch.io/cordeladventures"><img width="56%" height="100%" src="https://github.com/j4marcos/j4marcos/blob/main/Projeto%20(20231130044706).png" alt="Cordel Adventures by Rômulo Henri, J4marcos"></a></div>
 
 <hr>
+
 ## Contact
 
 <div>
