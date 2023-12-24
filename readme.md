@@ -34,11 +34,9 @@ Web and games developer
 <div display="inline_block" >
 <a href="https://github.com/j4marcos/50ProjectsIn50Days" target="_blank" alt="JavaScript"><img align="center" alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
 <a href="https://github.com/j4marcos/awsWebApplication" target="_blank" alt="nodeJS"><img align="center" alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://icon-library.com/images/node-js-icon/node-js-icon-29.jpg"></a>
-
 <a href="https://github.com/j4marcos/50ProjectsIn50Days" target="_blank"><img align="center" alt="HTML" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
 <a href="https://github.com/j4marcos/50ProjectsIn50Days" target="_blank"><img align="center" alt="CSS" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-<a href="https://github.com/j4marcos/Ccodes" target="_blank">
-<img align="center" alt="C" height="54" width="72"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
+<a href="https://github.com/j4marcos/Ccodes" target="_blank"><img align="center" alt="C" height="54" width="72"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
 
 </div>
 
