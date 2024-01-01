@@ -5,7 +5,7 @@
 <p>
 
 **computer cience** - UFPB. <br>
-Web Fullstack and games developer
+Web Fullstack student and games developer
 </p>
 </p>
 <p>
