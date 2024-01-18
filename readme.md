@@ -30,7 +30,8 @@ Web Fullstack student and games developer
 <a href="https://github.com/j4marcos/50ProjectsIn50Days" target="_blank" alt="JavaScript"><img align="center" alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
 <a href="https://github.com/j4marcos/50ProjectsIn50Days" target="_blank"><img align="center" alt="HTML" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
 <a href="https://github.com/j4marcos/50ProjectsIn50Days" target="_blank"><img align="center" alt="CSS" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-<a href="https://github.com/j4marcos/Ccodes" target="_blank"><img align="center" alt="C" height="54" width="72"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
+<a href="https://github.com/j4marcos/Ccodes" target="_blank"><img align="center" alt="C" height="54" width="72"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<a href="https://github.com/j4marcos/javaProjects" target="_blank"><img align="center" alt="JAVA" height="54" width="72"src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></a>
 </div>
 
 ### Frameworks, Libs and Technologies:
