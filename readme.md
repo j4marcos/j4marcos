@@ -38,14 +38,15 @@ Web Fullstack student
 ### Frameworks, Libs and Technologies:
 
 <div display="inline_block">
-<a href="https://github.com/j4marcos/awsWebApplication" target="_blank" alt="nodeJS"><img align="center" alt="nodeJS" height="54" width="54" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnOXI-mZz5hmOQ3m3Z2ltp0uroJ6O2LFt_fhkplsRUYLPDLFaWFD2zwXDd-jo4A0La0E&usqp=CAU"></a>
+<a href="https://github.com/j4marcos/awsWebApplication" target="_blank" alt="nodeJS"><img align="center" height="54" width="54" src="imgs/Projeto (20231130044706).png"></a>
+<a href="https://github.com/j4marcos/typescriptForAngular" target="_blank" alt="typescript"><img align="center" height="54" width="54" src="imgs/ts-logo-256.png"></a>
  
 </div>
 
 <hr>
 
 ## Games
-<div><a href="https://romulohenri.itch.io/cordeladventures"><img width="56%" height="100%" src="https://github.com/j4marcos/j4marcos/blob/main/Projeto%20(20231130044706).png" alt="Cordel Adventures by Rômulo Henri, J4marcos"></a></div>
+<div><a href="https://romulohenri.itch.io/cordeladventures"><img width="56%" height="100%" src="https://github.com/j4marcos/j4marcos/blob/main/imgs/Projeto%20(20231130044706).png" alt="Cordel Adventures by Rômulo Henri, J4marcos"></a></div>
 
 <hr>
 
