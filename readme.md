@@ -4,8 +4,7 @@
 
 <p>
 
-**computer cience** - UFPB. <br>
-Web Fullstack student 
+**computer cience** - UFPB. <br> Fullstack student 
 </p>
 </p>
 <p>
