@@ -4,7 +4,7 @@
 
 <p>
 
-**computer cience** - UFPB. <br> Fullstack student 
+**computer cience** - UFPB. <br> Web Fullstack Dev
 </p>
 </p>
 <p>
@@ -20,32 +20,21 @@
 <hr>
 
 ## Skills
-
 > Main languages, frameworks and technologies that i use in projects.
 
 ### Languages:
 
-<div display="inline_block" >
-<a href="https://github.com/j4marcos/50ProjectsIn50Days" target="_blank" alt="JavaScript"><img align="center" alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-<a href="https://github.com/j4marcos/50ProjectsIn50Days" target="_blank"><img align="center" alt="HTML" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-<a href="https://github.com/j4marcos/50ProjectsIn50Days" target="_blank"><img align="center" alt="CSS" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-<a href="https://github.com/j4marcos/Ccodes" target="_blank"><img align="center" alt="C" height="54" width="72"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
-<a href="https://github.com/j4marcos/javaProjects" target="_blank"><img align="center" alt="JAVA" height="54" width="72"src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></a>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,nodejs,java,python,c)](https://skillicons.dev)
  
 </div>
 
 ### Frameworks, Libs and Technologies:
 
-<div display="inline_block">
-<a href="https://github.com/j4marcos/awsWebApplication" target="_blank" alt="nodeJS"><img align="center" height="54" width="54" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnOXI-mZz5hmOQ3m3Z2ltp0uroJ6O2LFt_fhkplsRUYLPDLFaWFD2zwXDd-jo4A0La0E&usqp=CAU"></a>
-<a href="https://github.com/j4marcos/typescriptForAngular" target="_blank" alt="typescript"><img align="center" height="54" width="54" src="imgs/ts-logo-256.png"></a>
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,postgres,supabase,yarn,react,materialui,figma)](https://skillicons.dev)
  
 </div>
 
 <hr>
-
-## Games
-<div><a href="https://romulohenri.itch.io/cordeladventures"><img width="56%" height="100%" src="https://github.com/j4marcos/j4marcos/blob/main/imgs/Projeto%20(20231130044706).png" alt="Cordel Adventures by Rômulo Henri, J4marcos"></a></div>
 
 <hr>
 
